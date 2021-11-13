@@ -1,6 +1,10 @@
 ### Hi there 👋
 #### I am Hanif Adedotun 
 
+<p>
+  <img src="https://github.com/Hanif-adedotun/Hanif-adedotun/blob/main/twitterhead%202.png?raw=true" alt='My profile header' height='70%' >
+</p>
+
 [![wakatime](https://wakatime.com/badge/user/94742452-cde1-48b8-815f-7eca77837463.svg)](https://wakatime.com/@94742452-cde1-48b8-815f-7eca77837463)
 <!--
 **Hanif-adedotun/Hanif-adedotun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
