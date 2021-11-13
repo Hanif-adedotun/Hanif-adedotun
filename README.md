@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I am Hanif Adedotun 
+<!-- #### I am Hanif Adedotun  -->
 
 <p>
   <img src="https://github.com/Hanif-adedotun/Hanif-adedotun/blob/main/twitterhead%202.png?raw=true" alt='My profile header' height='70%' >
