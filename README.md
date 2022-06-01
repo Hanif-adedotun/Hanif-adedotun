@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on something cool
 - 🌱 I’m currently learning AI, ML and data engineering
 - 💬 Ask me about Javascript, React and anything web app
-- 📫 How to reach me: [Email](mailto:hanif.adedotun@gmail.com) or [My Website](www.hanif-adedotun.com)
+- 📫 How to reach me: [Email](mailto:hanif.adedotun@gmail.com) or [My Website](https://devhanif.com)
 - ⚡ Fun fact: I love business and world economics
 
 ### Languages
