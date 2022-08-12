@@ -2,9 +2,6 @@
 <!-- #### I am Hanif Adedotun  -->
 [![wakatime](https://wakatime.com/badge/user/94742452-cde1-48b8-815f-7eca77837463.svg)](https://wakatime.com/@94742452-cde1-48b8-815f-7eca77837463)
 
-Devtranet
-
-[![wakatime](https://wakatime.com/badge/user/94742452-cde1-48b8-815f-7eca77837463/project/a65d0f8d-2221-4a76-8220-4f386fe04964.svg?style=plastic)](https://wakatime.com/@94742452-cde1-48b8-815f-7eca77837463/project/a65d0f8d-2221-4a76-8220-4f386fe04964)
 
 <p>
   <img src="https://github.com/Hanif-adedotun/Hanif-adedotun/blob/main/twitterhead%202.png?raw=true" alt='My profile header' height='60%' >
