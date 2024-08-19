@@ -4,7 +4,7 @@
 
 
 <p>
-  <img src="https://github.com/Hanif-adedotun/Hanif-adedotun/blob/main/Newtwitterhead2.png?raw=true" alt='My profile header' height='60%' >
+  <img src="https://github.com/Hanif-adedotun/Hanif-adedotun/blob/main/twitterHead.jpg?raw=true" alt='My profile header' height='60%' >
 </p>
 
 - 🔭 I’m currently working on something cool
@@ -13,8 +13,11 @@
 - 📫 How to reach me: [Email](mailto:hanif.adedotun@gmail.com) or [My Website](https://devhanif.com)
 - ⚡ Fun fact: I love business and world economics
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanif-adedotun&theme=dark&show_icons=true&locale=en" alt="HanifAdedotun" /></p>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hanif-adedotun&theme=dark)](https://git.io/streak-stats)
 
+<!-- 
 ### Languages
 <p align="left">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
@@ -32,6 +35,7 @@
    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/jquery.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/bootstrap.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
 </p>
+-->
 
 ### Contact me
 <p align="left">
