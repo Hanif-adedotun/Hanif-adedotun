@@ -13,6 +13,8 @@
 - 📫 How to reach me: [Email](mailto:hanif.adedotun@gmail.com) or [My Website](https://devhanif.com)
 - ⚡ Fun fact: I love business and world economics
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hanif-adedotun&theme=dark)](https://git.io/streak-stats)
+
 ### Languages
 <p align="left">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
