@@ -4,7 +4,7 @@
 
 
 <p>
-  <img src="https://github.com/Hanif-adedotun/Hanif-adedotun/blob/main/twitterHead.jpg?raw=true" alt='My profile header' height='60%' >
+  <img src="https://github.com/Hanif-adedotun/Hanif-adedotun/blob/main/1713974584312.jpg?raw=true" alt='My profile header' style="border-radius:10px;padding:6.0pt;" width='50%' >
 </p>
 
 - 🔭 I’m currently working on something cool
