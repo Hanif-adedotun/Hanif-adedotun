@@ -15,7 +15,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanif-adedotun&theme=dark&show_icons=true&locale=en" alt="HanifAdedotun" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hanif-adedotun&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hanif-adedotun&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
 <!-- 
 ### Languages
