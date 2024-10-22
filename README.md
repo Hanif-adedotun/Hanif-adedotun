@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Hanif 👋
 <!-- #### I am Hanif Adedotun  -->
 [![wakatime](https://wakatime.com/badge/user/94742452-cde1-48b8-815f-7eca77837463.svg)](https://wakatime.com/@94742452-cde1-48b8-815f-7eca77837463)
 
@@ -7,15 +7,19 @@
   <img src="https://github.com/Hanif-adedotun/Hanif-adedotun/blob/main/1713974584312.jpg?raw=true" alt='My profile header' style="border-radius:10px;padding:6.0pt;" width='50%' >
 </p>
 
-- 🔭 I’m currently working on something cool
+- 🔭 I’m currently working as an Software Engineer
 - 🌱 I’m currently learning AI, ML and data engineering
 - 💬 Ask me about Javascript, React and anything web app
 - 📫 How to reach me: [Email](mailto:hanif.adedotun@gmail.com) or [My Website](https://devhanif.com)
 - ⚡ Fun fact: I love business and world economics
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanif-adedotun&theme=dark&show_icons=true&locale=en" alt="HanifAdedotun" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanif-adedotun&theme=dark&show_icons=true&locale=en" alt="HanifAdedotun" />
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hanif-adedotun&theme=dark&mode=weekly)](https://git.io/streak-stats)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hanif-adedotun&theme=dark&mode=weekly)
+
 
 <!-- 
 ### Languages
@@ -56,18 +60,3 @@
 
 
 
-
-<!--
-**Hanif-adedotun/Hanif-adedotun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
