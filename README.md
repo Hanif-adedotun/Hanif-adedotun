@@ -1,16 +1,14 @@
-### Hi there, I'm Hanif 👋
-<!-- #### I am Hanif Adedotun  -->
+<h1 align="center" > Hi there, I'm Hanif 👋 </h1>
+
  [![wakatime](https://wakatime.com/badge/user/94742452-cde1-48b8-815f-7eca77837463.svg)](https://wakatime.com/@94742452-cde1-48b8-815f-7eca77837463) ![profilevisits](https://komarev.com/ghpvc/?username=hanif-adedotun) 
 
-<p>
+<!-- <p>
   <img src="https://github.com/Hanif-adedotun/Hanif-adedotun/blob/main/1713974584312.jpg?raw=true" alt='My profile header' style="border-radius:10px;padding:6.0pt;" width='50%' >
-</p>
+</p> -->
 
-- 🔭 I’m currently working as an Software Engineer
-- 🌱 I’m currently learning AI, ML and data engineering
-- 💬 Ask me about Javascript, React and anything web app
-- 📫 How to reach me: [Email](mailto:hanif.adedotun@gmail.com) or [My Website](https://devhanif.com)
-- ⚡ Fun fact: I love business and world economics
+- 🔭 Working as an Software Engineer
+- 🌱 Building in the AI, ML and data engineering space
+- 📫 How to reach me: [Email](mailto:hanif.adedotun@gmail.com) or [My Website](https://hanif.one)
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanif-adedotun&theme=dark&show_icons=true&locale=en" alt="HanifAdedotun" />
@@ -46,7 +44,7 @@
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>
   
-   <a href="www.twitter.com/devhanif">
+   <a href="https://x.com/devhanif">
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/twitter.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>
   
