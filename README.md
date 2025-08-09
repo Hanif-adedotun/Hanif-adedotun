@@ -2,6 +2,7 @@
 <!-- #### I am Hanif Adedotun  -->
 [![wakatime](https://wakatime.com/badge/user/94742452-cde1-48b8-815f-7eca77837463.svg)](https://wakatime.com/@94742452-cde1-48b8-815f-7eca77837463)
 
+![profilevisits](https://komarev.com/ghpvc/?username=hanif-adedotun)
 
 <p>
   <img src="https://github.com/Hanif-adedotun/Hanif-adedotun/blob/main/1713974584312.jpg?raw=true" alt='My profile header' style="border-radius:10px;padding:6.0pt;" width='50%' >
