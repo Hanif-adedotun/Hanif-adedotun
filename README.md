@@ -21,7 +21,7 @@
   </a>
   
    <a href="https://x.com/devhanif">
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/x.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/twitter.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>
   
   <a href="www.linkedin.com/hanif-adedotun">
