@@ -11,8 +11,7 @@
 - 📫 How to reach me: [hey@hanif.one](mailto:hanif.adedotun@gmail.com) or visit [hanif.one](https://hanif.one)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hanif-adedoun&theme=dark)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hanif-adedotun&theme=python-dark&border_radius=10.5&short_numbers=true)](https://git.io/streak-stats)
 
 ### Contact me
 <p align="left">
