@@ -1,6 +1,6 @@
 <h1 align="" >  <img src="./mask.png" height="28" valign="middle" alt="logo"> Hey, I am Hanif 👋 </h1>
 
-Software Engineer building who just likes to bring ideas/solution to life, like to think of myself as a generalist.
+Software Engineer building who likes to bring ideas/solution to life, like to think of myself as a generalist.
 
 I write about facinating concepts 👉 [blog.hanif.one](https://blog.hanif.one)
 
