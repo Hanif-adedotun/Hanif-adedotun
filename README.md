@@ -1,34 +1,27 @@
-<h1 align="center" > Hi there, I'm Hanif 👋 </h1>
+<h1 align="" >  <img src="./mask.png" height="28" valign="middle" alt="logo"> Hey, I am Hanif 👋 </h1>
 
- [![wakatime](https://wakatime.com/badge/user/94742452-cde1-48b8-815f-7eca77837463.svg)](https://wakatime.com/@94742452-cde1-48b8-815f-7eca77837463) ![profilevisits](https://komarev.com/ghpvc/?username=hanif-adedotun) 
+Software Engineer building who just likes to bring ideas/solution to life, like to think of myself as a generalist.
 
-<!-- <p>
-  <img src="https://github.com/Hanif-adedotun/Hanif-adedotun/blob/main/1713974584312.jpg?raw=true" alt='My profile header' style="border-radius:10px;padding:6.0pt;" width='50%' >
-</p> -->
+I write about facinating concepts 👉 [blog.hanif.one](https://blog.hanif.one)
 
-- 🔭 Working as an Software Engineer
-- 🌱 Building solutions in the AI, ML and data engineering space
-- 📫 How to reach me: [hey@hanif.one](mailto:hanif.adedotun@gmail.com) or visit [hanif.one](https://hanif.one)
+Some projects I built:
 
+- [Neurosync](https://www.neurosyncbci.com/): 
+- [Mirusync](https://mirusync.hanif.one): A cli-based dual way folder sync engine 
+- [Reposizer](https://reposizer.hanif.one): Node based package that shows github repositories analytics
+- [Vaul](https://vaul.hanif.one): A native desktop application to manage terminal commands easily
+- [Hiro](https://hiro.hanif.one): An AI observability agent designed that manages and generates test coverage for your codebase.
+- [Headline Agent](https://github.com/Hanif-adedotun/ML-Series/tree/main/HEADLINE-AGENT): An AI agent that fetches the latest technology news headline
+- [Map the gap](https://map-the-gap.vercel.app): AI based assessment tool estimating risk of chronic disease based on personal and neighborhood factors
+- You can reach out to me on [X](https://x.com/@devhanif) or [hey@hanif.one](mailto:hey@hanif.one)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hanif-adedotun&theme=python-dark&border_radius=10.5&short_numbers=true)](https://git.io/streak-stats)
-
-### Contact me
-<p align="left">
-   <a href="mailto:hanif.adedotun@gmail.com">
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-  </a>
-  
-   <a href="https://x.com/devhanif">
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/twitter.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-  </a>
-  
-  <a href="www.linkedin.com/hanif-adedotun">
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-  </a>
+<p align="center" style="margin-top: 40px;">
+  <img src="https://komarev.com/ghpvc/?username=hanif-adedotun" alt="profilevisits">&nbsp;
+    <a href="https://wakatime.com/@94742452-cde1-48b8-815f-7eca77837463"><img src="https://wakatime.com/badge/user/94742452-cde1-48b8-815f-7eca77837463.svg" alt="wakatime"></a>&nbsp;
+ <p>
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=hanif-adedotun&theme=python-dark&border_radius=10.5&short_numbers=true" alt="GitHub Streak"></a>
+  </p>
  
-</p>
-
-
 
 
