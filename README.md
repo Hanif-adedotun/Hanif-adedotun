@@ -6,7 +6,8 @@ I write about facinating concepts 👉 [blog.hanif.one](https://blog.hanif.one)
 
 Some projects I built:
 
-- [Neurosync](https://www.neurosyncbci.com/): 
+- [Neurosync](https://www.neurosyncbci.com/): Brain powered control of hardware devices
+- [Brief](https://brief.hanif.one): AI powered tool to extract follow ups from tasks across multiple work platforms (Slack, Jira, Github etc)
 - [Mirusync](https://mirusync.hanif.one): A cli-based dual way folder sync engine 
 - [Reposizer](https://reposizer.hanif.one): Node based package that shows github repositories analytics
 - [Vaul](https://vaul.hanif.one): A native desktop application to manage terminal commands easily
